@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jakub8745.github.io/gh-pages/sitemap.xml
